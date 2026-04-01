@@ -8,7 +8,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Developer;Backend+Developer;Full+Stack+Builder;AI+Enthusiast;Always+Learning+🚀&center=true&width=600&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Enthusiastic;Backend+Developer;Full+Stack+Builder;AI+Enthusiast;Always+Learning+🚀&center=true&width=600&height=50">
 </p>
 
 <p align="center">
