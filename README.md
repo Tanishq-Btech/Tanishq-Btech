@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Tanishq Bharti</h1>
-<h3 align="center">🚀 Machine Learning Developer | Backend Developer</h3>
+<h3 align="center">🚀 Machine Learning Enthusiastic | Backend Developer</h3>
 
 <!-- Typing Animation -->
 <p align="center">
