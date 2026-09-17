@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Tanishq Bharti</h1>
 
 <h3 align="center">
-  Software Engineer | Python Backend Developer | Full Stack Developer | AI/ML Enthusiast
+  Python Backend Developer | Full Stack Developer | AI/ML Enthusiast
 </h3>
 
 <!-- Typing Animation -->
