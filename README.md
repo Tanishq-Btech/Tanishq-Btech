@@ -4,11 +4,14 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Tanishq Bharti</h1>
-<h3 align="center">🚀 Machine Learning Enthusiastic | Backend Developer</h3>
+
+<h3 align="center">
+  Software Engineer | Python Backend Developer | Full Stack Developer | AI/ML Enthusiast
+</h3>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Enthusiastic;Backend+Developer;Full+Stack+Builder;AI+Enthusiast;Always+Learning+🚀&center=true&width=600&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Backend+Developer;Full+Stack+Developer;React+Developer;Machine+Learning+Enthusiast;Generative+AI+Enthusiast;Always+Learning&center=true&width=700&height=50">
 </p>
 
 <p align="center">
@@ -17,108 +20,219 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-* 🎓 B.Tech CSE @ PCCOE (2023–2027) | CGPA: 7.9  
-* 💡 Passionate about **Machine Learning, Backend Development & AI applications**  
-* ⚙️ Skilled in **REST APIs, full-stack systems & database design**  
-* 📊 Experience with **data analysis using Pandas, NumPy & Power BI**  
-* ☁️ Hands-on with **AWS (EC2, S3 basics)**  
-* 🧠 Strong foundation in **DSA, DBMS, OS & Computer Networks**
+- 🎓 B.Tech Computer Science Engineering @ PCCOE (2023–2027)
+- 💻 Interested in **Software Engineering, Backend Development & Full Stack Development**
+- 🐍 Experienced with **Python, Flask, FastAPI, Node.js and RESTful APIs**
+- ⚛️ Building web applications using **React.js and JavaScript**
+- 🗄️ Experienced with **MySQL and MongoDB**
+- 🤖 Interested in **Machine Learning, Deep Learning and Generative AI**
+- ☁️ Hands-on exposure to **AWS and Microsoft Azure**
+- 🧠 Strong foundation in **DSA, OOP, DBMS, OS and Computer Networks**
+- 🔧 Comfortable with **Git, GitHub and AI-assisted development tools**
 
 ---
 
 ## 💼 Experience
 
-### 🧠 AI & ML Intern – Edunet Foundation (IBM SkillsBuild)
-📅 Dec 2025 – Jan 2026  
+### 🧠 AI & ML Intern — Edunet Foundation (IBM SkillsBuild)
 
-* Completed AICTE-supported internship in **Artificial Intelligence & Machine Learning**  
-* Applied **data preprocessing, model training & evaluation techniques**  
-* Worked on **project-based learning under mentor guidance**  
-* Delivered final project aligned with **industry workflows**
+**Dec 2025 – Jan 2026**
+
+- Completed a 6-week AICTE-supported internship focused on **Artificial Intelligence and Machine Learning**.
+- Applied **data preprocessing, machine learning model development and evaluation techniques**.
+- Worked on project-based learning with mentor guidance.
+- Gained practical exposure to AI/ML development workflows and project presentation.
 
 ---
 
-## ⚡ Tech Stack
+## 🛠️ Technical Skills
 
-### 💻 Languages
+### 💻 Programming Languages
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,js,sql" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js" />
 </p>
 
-### 🌐 Backend & Web
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,react,html,css,bootstrap,flask" />
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge" />
 </p>
 
-### 📊 Data & AI
+---
+
+### 🌐 Frontend & Backend
+
 <p align="center">
-<img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Generative%20AI-black?style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,nodejs,express,flask" />
 </p>
+
+**Backend:** Python, Flask, FastAPI, Node.js, Express.js  
+**Frontend:** React.js, JavaScript, HTML, CSS, Bootstrap  
+**APIs:** RESTful APIs, API Integration
+
+---
+
+### 🤖 Artificial Intelligence & Machine Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Generative%20AI-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-000000?style=for-the-badge" />
+</p>
+
+- Machine Learning
+- Deep Learning
+- Generative AI
+- Retrieval-Augmented Generation
+- Model Development & Evaluation
+- Data Preprocessing
+
+---
+
+### 📊 Data Analytics
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+- Pandas
+- NumPy
+- Matplotlib
+- Power BI
+- Excel
+- Data Cleaning & Analysis
+
+---
 
 ### 🗄️ Databases
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### ☁️ Cloud & Tools
+- MySQL
+- MongoDB
+- Database Design
+- CRUD Operations
+- SQL Queries
+
+---
+
+### ☁️ Cloud & Development Tools
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,git,github,vscode" />
 </p>
 
----
-
-## 🚀 Projects
-
-### 🔹 AgroMart – Farm to Table Marketplace
-* Full-stack platform connecting farmers and consumers  
-* Implemented authentication, product management, cart & order system  
-* Added chatbot & verification features  
+- AWS
+- Microsoft Azure
+- Git
+- GitHub
+- VS Code
+- AI-assisted development using ChatGPT and Claude
 
 ---
 
-### 🔹 Credit Card Fraud Detection
-* ML model for fraud detection using transaction data  
-* Performed preprocessing, feature engineering & model training  
-* Integrated with Flask for real-time prediction  
+## 🚀 Featured Projects
+
+### 🔹 Intelligent Resume Analysis and Job Matching Platform
+
+**React.js | Python | Flask | MongoDB | RESTful APIs | spaCy | Scikit-learn | Sentence Transformers**
+
+- Developed a full-stack platform to analyze resumes, extract candidate skills, and match candidates with relevant job opportunities.
+- Implemented NLP-based resume parsing, semantic similarity analysis, skill gap detection, and explainable resume-job matching scores.
+- Built role-based authentication and RESTful APIs for candidate, recruiter, and admin workflows using Flask, React.js, and MongoDB.
+
+🔗 [View Project](https://github.com/Tanishq-Btech)
 
 ---
 
-### 🔹 Diet & Workout Recommendation
-* Personalized ML-based recommendation system  
-* Built full pipeline from data processing to deployment  
+### 🔹 QuickAI — AI-Powered SaaS Platform
+
+**React.js | Node.js | Express.js | MongoDB | Tailwind CSS**
+
+- Developed a full-stack AI-powered SaaS platform for content generation, image processing, resume review, and PDF management.
+- Implemented secure user authentication, RESTful APIs, cloud-based image management, and responsive user interfaces.
+- Integrated AI-powered features including article generation, blog title generation, image generation, and image editing.
+
+🔗 [View Project](https://github.com/Tanishq-Btech)
+
+---
+
+### 🔹 AgroMart — Farm to Table Marketplace
+
+**React.js | Node.js | Express.js | MongoDB**
+
+- Developed a full-stack marketplace connecting farmers and customers for direct agricultural product sales.
+- Implemented authentication, product management, cart, and order management.
+- Built RESTful APIs using Node.js and Express.js for handling application workflows.
+- Integrated MongoDB for user, product, cart, and order data management.
+
+🔗 [View Project](https://github.com/Tanishq-Btech)
+
+---
+
+### 🔹 Credit Card Fraud Detection Model
+
+**Python | Machine Learning | Flask**
+
+- Developed a machine learning web application to detect fraudulent credit card transactions.
+- Applied data preprocessing, feature engineering, and model training for fraud prediction.
+- Integrated the trained model with Flask to provide real-time fraud detection.
+
+🔗 [View Project](https://github.com/Tanishq-Btech/credit-card-fraud-detection-model)
+
+---
+
+### 🔹 Diet & Workout Recommendation System
+
+**Python | Machine Learning | Flask | AWS**
+
+- Developed a personalized ML-based recommendation system for diet and workout suggestions.
+- Implemented data preprocessing and machine learning techniques to generate recommendations.
+- Built a Flask-based web application and deployed the system using AWS.
 
 ---
 
 ## 🏆 Achievements
 
-* 🥇 1st Prize – Praxis AI Canvas Contest  
-* 🏅 SIH Round 2 Qualifier  
-* 📜 Copyright Certified – AgroMart App  
-* 🎓 Completed DSA & Data Science Courses  
+- 🥇 **1st Prize** — Praxis AI Canvas Contest
+- 🏅 **Smart India Hackathon 2025** — Round 2
+- 📜 **Copyright Certified** — AgroMart Project
+- 🎓 Completed **Data Structures & Algorithms** certification
+- 🎓 Completed **Data Science** certification
+- ☁️ Completed **Microsoft Azure** course and internship training
 
 ---
 
-## 📈 GitHub Stats
+## 📚 Core Computer Science
+
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Database Management Systems
+- Operating Systems
+- Computer Networks
+- Software Engineering
+- REST API Architecture
+- Database Design
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanishq-Btech&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishq-Btech&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanishq-Btech&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishq-Btech&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 ---
 
-## 🔥 Streak Stats
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanishq-Btech&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanishq-Btech&theme=tokyonight"/>
 </p>
 
 ---
@@ -134,10 +248,21 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="mailto:tanishqbharti8269@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+
+  <a href="mailto:tanishqbharti8269@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+  </a>
+
+  <a href="https://github.com/Tanishq-Btech">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
 ---
 
-⭐️ *"Building intelligent systems and scalable backend solutions"* 🚀
+<p align="center">
+  <b>Building scalable software, intelligent applications and always learning.</b>
+</p>
